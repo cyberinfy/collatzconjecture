@@ -1,7 +1,7 @@
 from time import sleep
 import sys
 
-def coundrum(n):
+def conundrum(n):
     print(n, end="-> ")
     t=n
     iteration = 0
@@ -22,4 +22,4 @@ def coundrum(n):
     sleep(.1)
 
 for i in range(1,sys.maxsize):
-    coundrum(i)
+    cnoundrum(i)
