@@ -1,5 +1,5 @@
 from time import sleep
-def coundrum(n):
+def conundrum(n):
     t=n
     iteration = 0
     while True:
@@ -16,4 +16,4 @@ def coundrum(n):
         sleep(.4)
 
 n = int(input("Please enter a number of your choice: "))
-coundrum(n)
+conundrum(n)
