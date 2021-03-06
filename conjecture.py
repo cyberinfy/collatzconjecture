@@ -22,4 +22,4 @@ def conundrum(n):
     sleep(.1)
 
 for i in range(1,sys.maxsize):
-    cnoundrum(i)
+    conundrum(i)
